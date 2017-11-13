@@ -21,7 +21,7 @@ ii) 	NMPC export
 ===============================
 C implementation of the NMPC control routine. The exported files were generated using the ACADO toolkit
 
-iii)	Simulink_Matlab:
+iii)	Simulink_Matlab
 ===============================
 System models and controller designs using Matlab and Simulink. Created using MATLAB R2017a. It is recommended that
 the latest version of matlab is used to ensure all function work correctly
