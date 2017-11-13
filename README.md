@@ -1,8 +1,12 @@
 # undergrad_Thesis
-#Project topic: nonlinear model predictive control (NMPC) of an inverted pendulum
-#Author: Alvin Reabow [RBWALV001]
-#Date: November 2017
+Project topic: nonlinear model predictive control (NMPC) of an inverted pendulum
+
+Author: Alvin Reabow [RBWALV001]
+
+Date: November 2017
+
 University of Cape Town
+
 Department of Electrical Engineering
 -----------------------------------------------------------------------------------------------------
 This research task was fulfilled as part of the requirements for the final year undergraduate project
